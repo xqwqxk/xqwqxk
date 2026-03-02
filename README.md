@@ -1,2 +1,2 @@
-### Welcome to my Github page!
-![Header](./github-header-banner.png)
+#### Welcome to my Github page!
+### Добро пожаловать на мой гитхаб!
